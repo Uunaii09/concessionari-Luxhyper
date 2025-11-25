@@ -1,0 +1,85 @@
+body {
+ font-family: 'Montserrat', Arial, sans-serif;
+}
+
+
+
+
+body {
+ background-color: #0d0d0d;
+ color: #f0f0f0;
+}
+
+
+header {
+ background: linear-gradient(90deg, #111 0%, #222 100%);
+ border-bottom-color: #ff0044;
+ color: #f0f0f0;
+}
+
+
+.left a {
+ color: #ff0044;
+}
+
+
+.left a:hover {
+ text-decoration: underline;
+}
+
+
+.center {
+ color: #fff;
+}
+
+
+.center span {
+ border-bottom-color: #ff0044;
+}
+
+
+.right {
+ color: #ffaaaa;
+}
+
+
+main {
+ color: #ddd;
+}
+
+
+.discover {
+ color: #ff0044;
+}
+
+
+.collection th {
+ color: #fff;
+}
+
+
+.collection td {
+ background-color: #1a1a1a;
+}
+
+
+.collection img:hover {
+ transform: scale(1.05);
+}
+
+
+.consulta {
+ color: #fff;
+ background-color: #ff0044;
+ border-color: #ff0044;
+}
+
+
+a {
+ color: #ff0044;
+}
+
+
+a:hover {
+ text-decoration: underline;
+}
